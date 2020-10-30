@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view"
+    >
+    <item
+        android:title="@string/favourite"
+        android:id="@+id/id_favorite"
+        />
+
+    <item
+        android:title="@string/moon"
+        android:id="@+id/id_moon"
+        />
+
+
+
+<item
+    android:title="@string/love"
+    android:id="@+id/id_love" />
+
+    <item
+        android:title="@string/nature"
+        android:id="@+id/id_nature" />
+    <item
+        android:title="@string/life"
+        android:id="@+id/id_life" />
+
+    <item
+        android:title="@string/Seasons">
+        <menu>
+            <item
+                android:title="@string/winter"
+                android:id="@+id/id_winter"
+                />
+            <item
+                android:title="@string/spring"
+                android:id="@+id/id_spring" />
+            <item
+                android:title="@string/summer"
+                android:id="@+id/id_summer" />
+            <item
+                android:title="@string/autumn"
+                android:id="@+id/id_autumn" />
+        </menu>
+    </item>
+
+
+</menu>

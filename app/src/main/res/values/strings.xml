@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BeSmart!</string>
+    <string name="font">JosefinSans-VariableFont_wght.ttf</string>
+
+    <string name="favourite">Любимые</string>
+    <string name="moon">Луна</string>
+
+    <string name="Seasons">Времена года</string>
+    <string name="winter">зима</string>
+    <string name="spring">весна</string>
+    <string name="summer">лето</string>
+    <string name="autumn">осень</string>
+
+
+    <string name="life">О жизни</string>
+    <string name="love">Любовь</string>
+    <string name="nature">Природа</string>
+
+</resources>
