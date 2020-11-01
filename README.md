@@ -1,9 +1,8 @@
 # Haiku
 
-Haiku is wold famous style of japanese poetry.
-This Android app presents to the user a collection of Japanese poems on various topics.
 
-The application consists of a recyclet view that is filled with items of a certain category, depending on the user's choice.
+## This Android app presents to the user a collection of Japanese poems on various topics.
+## Haiku is wold famous style of japanese poetry.
 
 ## Design
 Before starting app building the prototype was created in [Figma](https://www.figma.com/file/ScNJPKyoebUTDCSXItsvng/%D0%A5%D0%B0%D0%B9%D0%BA%D1%83-android?node-id=0%3A1).
