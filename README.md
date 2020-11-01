@@ -9,11 +9,14 @@ Before starting app building the prototype was created in [Figma](https://www.fi
 ## Coding
 
 The app was implemnted with java.
-Following dependencies were added:
+Following dependencies were added to build.gradle:
+
 ```implementation 'androidx.recyclerview:recyclerview:1.1.0' ``` - for recView
 
 ```implementation 'com.mxn.soul:flowingdrawer-core:2.1.0' ```
 ```implementation 'com.nineoldandroids:library:2.4.0' ```-beautiful menu draging
+
+Data is representing by filling the recView with items from a selected category. Category can be selected in left menu.
 
 ### Data saving 
 Instead of database I use *SharedPreferences*. All items  in each category are saved as a string with zeros. One zero for each item. ```"000000"```
